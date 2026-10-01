@@ -1,3 +1,3 @@
 My web design assignment.
 
-![puppies](
+![puppies](https://ellaweidner13-a11y.github.io/)
